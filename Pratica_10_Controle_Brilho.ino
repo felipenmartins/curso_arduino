@@ -1,5 +1,4 @@
 // Curso de Introdução a Sistemas Embarcados com Arduino
-// ISA-ES - MAR-ABR/2014
 // Prof. Felipe N. Martins
 // www.nossosrobos.blogspot.com
 //
@@ -25,5 +24,5 @@ void loop() {
   brilho = map(sensor, 0, 1023, 0, 255);
   Serial.println(brilho); // envia ao PC
   analogWrite(13, brilho); // aciona LED
-  delay(100);
+  delay(30);
 }
