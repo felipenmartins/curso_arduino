@@ -1,5 +1,4 @@
 // Curso de Introdução a Sistemas Embarcados com Arduino
-// ISA-ES - MAR-ABR/2014
 // Prof. Felipe N. Martins
 // www.nossosrobos.blogspot.com
 //
