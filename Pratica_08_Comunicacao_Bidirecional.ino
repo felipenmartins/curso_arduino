@@ -6,6 +6,7 @@
 // Objetivo: fazer comunicação bidirecional entre o Arduino e o 
 // computador. O Arduino solicita ao usuário que entre com um
 // número entre 0 e 9 e apresenta a tabuada desse número.
+// Baseado no código escrito para PIC16F por Rafael Lacerda Alves.
 //
 // Hardware adicionado:
 // 
